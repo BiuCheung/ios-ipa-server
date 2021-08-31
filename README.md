@@ -1,4 +1,6 @@
 自动生成自签名HTTPS服务器，快速安装ipa
+copy for https://github.com/bumaociyuan/ios-ipa-server
+think bumaociyuan
 
 [README For English](./README-en.md)
 
